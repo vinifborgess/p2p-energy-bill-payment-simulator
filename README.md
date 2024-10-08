@@ -21,7 +21,6 @@ This section describes features that are either work-in-progress or will be impl
 
 | Feature | Status |
 | --- | --- |
-| Choosing the Blockchain and crypto to be used |‎‎‎‎‎‎‎‎ㅤ🚧|
 | Smart contract development |‎‎‎‎‎‎‎‎ㅤ🚧|
 | User Interface (Front-end) |‎‎‎‎‎‎‎‎ㅤ❌|
 | Testing, Deployment and Simulation |‎‎‎‎‎‎‎‎ㅤ❌|
